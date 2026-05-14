@@ -1,0 +1,6 @@
+Phần mềm được sử dụng:
+- Docker
+- Tableplus database: candyshop_db là database chính
+- Visual:
++ BE: lệnh kích hoạt kết nối: node server.js
++ FE: lệnh kích hoạt mở trang web: npm run dev 
